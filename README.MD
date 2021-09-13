@@ -2,15 +2,15 @@
 
 ------------------------
 
-Enter servers in bulk with your list of tokens on Discord.
+Insira servidores em massa com sua lista de tokens no Discord.
 
-# How to use:
+# Como usar:
 
-1 - Place the servers in the server-list file with "discord.gg"
+1 - Coloque os servidores no arquivo de lista de servidores com "discord.gg"
 
-2 - Place the tokens in the token-list file
+2 - Coloque os tokens no arquivo de lista de tokens
 
-3 - Run install.bat to install all packages
+3 - Execute install.bat para instalar todos os pacotes
 
 ------------------------
 
